@@ -34,7 +34,5 @@ public class Main {
         tallaZapato = RND.nextInt(TALLA_MAX - TALLA_MIN + 1) + TALLA_MIN;
 
         System.out.printf("Talla de zapato......: %d%n", tallaZapato);
-
     }
-
 }
